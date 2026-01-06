@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix
 # -----------------------------
 # PAGE CONFIG
 # -----------------------------
-st.set_page_config(page_title="Diabetes Prediction App", layout="centered")
+st.set_page_config(page_title="Jawad's Diabetes Prediction App", layout="centered")
 st.title("🩺 Diabetes Prediction System")
 st.write("Select a model, enter patient details, and predict diabetes risk.")
 
