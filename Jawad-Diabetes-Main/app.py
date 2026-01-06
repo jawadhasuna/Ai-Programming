@@ -21,7 +21,7 @@ st.write("Select a model, enter patient details, and predict diabetes risk.")
 # LOAD DATA
 # -----------------------------
 # Replace with your dataset path if needed
-df = pd.read_csv("diabetes.csv")
+df = pd.read_csv("Jawad-Diabetes-Main/diabetes.csv")
 
 # -----------------------------
 # FEATURES & TARGET
